@@ -40,4 +40,3 @@ build/
 ### Large files and visualizations
 src/main/resources/results/*.png
 src/main/resources/results/*.dot
-src/main/resources/results/*.csv
