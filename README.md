@@ -41,13 +41,6 @@ src/
 - Maven
 - Graphviz (for visualization)
 
-
-## Installation & Usage
-git clone https://github.com/your-username/assig3_daa.git
-cd assig3_daa
-mvn clean compile
-mvn exec:java -Dexec.mainClass="com.meaemb.mst.Main"
-
 ## Input format
 ```bash
 {
