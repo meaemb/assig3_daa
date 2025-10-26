@@ -155,8 +155,14 @@
 
 ## 4. References
 
-1. Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms* (4th ed.). MIT Press.
-2. Sedgewick, R., & Wayne, K. (2011). *Algorithms* (4th ed.). Addison-Wesley Professional.
-3. Kleinberg, J., & Tardos, É. (2005). *Algorithm Design*. Pearson.
-4. Oracle Java Documentation: PriorityQueue and Collections Implementation Details
-5. Union-Find Complexity Analysis: Tarjan, R. E. (1975). Efficiency of a Good But Not Linear Set Union Algorithm
+1. **GeeksforGeeks** - "Prim's Algorithm using Priority Queue"
+   https://www.geeksforgeeks.org/prims-algorithm-using-priority_queue-stl/
+
+2. **Baeldung** - "Kruskal's Algorithm for Spanning Tree"
+   https://www.baeldung.com/java-spanning-trees-kruskal
+
+3. **Wikipedia** - "Disjoint-set data structure"
+   https://en.wikipedia.org/wiki/Disjoint-set_data_structure
+
+4. **Graphviz Documentation** - Graph visualization tool
+   https://graphviz.org/documentation/
